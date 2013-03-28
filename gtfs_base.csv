@@ -1,0 +1,35 @@
+stop_id,stop_name,stop_lat,stop_lon,arrival_time
+1,Pont de Sèvres,48.8273,2.2304,0
+2,Issy RER,48.82112,2.25962,181.12
+3,Fort d’Issy/Vanves/Clamart,48.81412,2.27319,282.16
+4,Châtillon Montrouge,48.81125,2.30239,454.8
+5,Bagneux-M4,48.8028,2.31865,577.36
+6,Arcueil-Cachan,48.79794,2.32805,647.76
+7,Villejuif Institut G. Roussy,48.79319,2.34942,779.52
+8,Villejuif Louis Aragon,48.78847,2.36747,894.88
+9,Vitry Centre,48.79001,2.38792,1015.28
+10,Les Ardoines,48.78239,2.4085,1154.72
+11,Le Vert de Maisons,48.78981,2.43242,1309.92
+12,Créteil l’Echat,48.79514,2.44929,1419.92
+13,Saint-Maur Créteil,48.80682,2.47236,1591.36
+14,Champigny centre,48.81614,2.50242,1787.04
+15,Le Perreux-Nogent,48.839,2.4942,1995.44
+16,Val de Fontenay,48.8543,2.489,2129.04
+17,Rosny-Bois Perrier,48.8826,2.4811,2385.04
+18,Bondy,48.8947,2.4755,2497.04
+19,Pont de Bondy,48.9057,2.4683,2609.04
+20,Bobigny P.-Picasso,48.9067,2.4424,2737.04
+21,Drancy-Bobigny,48.9145,2.429,2881.04
+22,Fort d'Aubervilliers,48.915,2.4035,3001.04
+23,Mairie d'Aubervilliers,48.9192,2.3751,3145.04
+24,Stade De France,2.35119,48.91763,3253.04
+25,Saint-Denis Pleyel,2.34304,48.91955,3361.84
+26,Les Grésillons,2.31406,49.92045,3649.84
+27,Les Agnettes,2.2862,48.92311,3825.84
+28,Bois-Colombes,2.27171,48.91412,3945.84
+29,Bécon-les-Bruyères,2.26904,48.90548,4065.84
+30,La Défense,2.23738,48.89248,4305.84
+31,Nanterre,2.22792,48.89736,4385.84
+32,Nanterre La Boule,2.20035,48.8874,4585.84
+33,"Rueil / Suresnes ""Mont-Valérien""",2.22126,48.87163,4745.84
+34,Saint-Cloud Transilien,2.22178,48.8425,4985.84
